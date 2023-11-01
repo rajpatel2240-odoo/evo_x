@@ -31,7 +31,6 @@
   <!-- External repos -->
   <!--<project path="external/faceunlock" name="external_faceunlock" remote="evo-gitlab" />-->
   <project path="external/cronet" name="PixelExperience-Staging/external_cronet" revision="fourteen" remote="github" />
-  <project path="external/libcxx" name="external_libcxx" remote="evo" />
   <project path="external/piex" name="external_piex" remote="evo" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="evo" />
 
@@ -68,6 +67,9 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="evo" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="evo" />
   <!--<project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="evo" />-->
+  <project path="hardware/qcom-caf/sdm660/audio" name="hardware_qcom-caf_sdm660_audio" groups="qcom,sdm660" remote="evo" />
+  <project path="hardware/qcom-caf/sdm660/display" name="hardware_qcom-caf_sdm660_display" groups="qcom,sdm660" remote="evo" />
+  <project path="hardware/qcom-caf/sdm660/media" name="hardware_qcom-caf_sdm660_media" groups="qcom,sdm660" remote="evo" />
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="evo" />
 
   <!-- Packages (Apps) repos -->
