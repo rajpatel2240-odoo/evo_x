@@ -70,6 +70,7 @@
   <project path="hardware/qcom-caf/sdm660/audio" name="hardware_qcom-caf_sdm660_audio" groups="qcom,sdm660" remote="evo" />
   <project path="hardware/qcom-caf/sdm660/display" name="hardware_qcom-caf_sdm660_display" groups="qcom,sdm660" remote="evo" />
   <project path="hardware/qcom-caf/sdm660/media" name="hardware_qcom-caf_sdm660_media" groups="qcom,sdm660" remote="evo" />
+  <project path="hardware/qcom-caf/sm8150/audio" name="hardware_qcom-caf_sm8150_audio" groups="qcom,msmnile" remote="evo" />
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="evo" />
 
   <!-- Packages (Apps) repos -->
