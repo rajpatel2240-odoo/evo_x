@@ -26,7 +26,7 @@
 
   <!-- Device repos -->
   <project path="device/evolution/sepolicy" name="device_evolution_sepolicy" remote="evo" />
-  <project path="device/qcom/common" name="PixelExperience-Devices/device_qcom_common" revision="thirteen" remote="github" />
+  <project path="device/qcom/common" name="AOSPA/android_device_qcom_common" revision="uvite" remote="github" />
 
   <!-- External repos -->
   <!--<project path="external/faceunlock" name="external_faceunlock" remote="evo-gitlab" />-->
@@ -131,5 +131,6 @@
   <project path="vendor/evolution" name="vendor_evolution" remote="evo" />
   <project path="vendor/firmware" name="vendor_firmware" remote="evo-gitlab" clone-depth="1" />
   <project path="vendor/gms" name="vendor_gms_new" groups="vendor" remote="evo-gitlab" clone-depth="1" />
+  <project path="vendor/qcom/common" name="ThankYouMario/proprietary_vendor_qcom_common" revision="uvite" remote="github" />
   <!--<project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="evo" />-->
 </manifest> 
