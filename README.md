@@ -10,7 +10,7 @@ Evolution X
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/Evolution-X/manifest -b udc
+repo init -u https://github.com/rajpatel2240-odoo/evo_x -b udc --depth=1
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
