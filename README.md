@@ -1,4 +1,4 @@
-![Evolution X](https://github.com/Evolution-X/manifest/raw/tiramisu/EvoBanner.png)
+![Evolution X](https://github.com/rajpatel2240-odoo/evo_x/raw/tiramisu/EvoBanner.png)
 
 Evolution X
 ===========
@@ -11,17 +11,17 @@ Please choose one of the following manifest branches
 
 - If you are compiling for a non-pixel device and are not using jemalloc memory allocator:
 ```bash
-repo init -u https://github.com/Evolution-X/manifest -b tiramisu
+repo init -u https://github.com/rajpatel2240-odoo/evo_x -b tiramisu --depth=1
 ```
 
 - If you are compiling for a Google Pixel device:
 ```bash
-repo init -u https://github.com/Evolution-X/manifest -b tiramisu-pixel
+repo init -u https://github.com/rajpatel2240-odoo/evo_x -b tiramisu-pixel
 ```
 
 - If you are compiling for a non-pixel device and would like to use the jemalloc memory allocator:
 ```bash
-repo init -u https://github.com/Evolution-X/manifest -b tiramisu-jem
+repo init -u https://github.com/rajpatel2240-odoo/evo_x -b tiramisu-jem
 ```
 
 Once you have chosen a source branch, you can proceed with the synchronization using the following command:
