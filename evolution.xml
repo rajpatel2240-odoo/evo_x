@@ -240,5 +240,5 @@
   <project name="rajpatel2240/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="gitlab" revision="lineage-20" clone-depth="1" />
   <project name="ArrowOS-Devices/android_kernel_motorola_dubai" path="kernel/motorola/dubai" remote="github" revision="arrow-13.1" clone-depth="1" />
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-20"/>
-  <project name="surajdazz/firmware_images" path="vendor/motorola/dubai-firmware" remote="gitlab" revision="dubai"/>
+<!--   <project name="surajdazz/firmware_images" path="vendor/motorola/dubai-firmware" remote="gitlab" revision="dubai"/> -->
 </manifest> 
