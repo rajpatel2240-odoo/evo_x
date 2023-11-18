@@ -144,6 +144,5 @@
 <!--   <project name="rajpatel2240-odoo/android_kernel_motorola_dubai" path="kernel/motorola/dubai" remote="github" revision="arrow-13.1" clone-depth="1" /> -->
 <!--   <project name="LineageOS/android_kernel_motorola_sm7325" path="kernel/motorola/sm7325" remote="github" revision="lineage-20" clone-depth="1" /> -->
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-21" clone-depth="1" />
-  <project name="surajdazz1/firmware_images" path="vendor/motorola/dubai-firmware" remote="gitlab" revision="dubai" clone-depth="1" />
-  
+  <project name="surajdazz1/firmware_images" path="vendor/motorola/dubai-firmware" remote="gitlab" revision="dubai" clone-depth="1" />  
 </manifest> 
